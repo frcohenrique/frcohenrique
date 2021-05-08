@@ -12,7 +12,7 @@ Reach me out 👇🏻
 
 
 [
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devhenriquefranco/)](https://www.linkedin.com/in/devhenriquefranco/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/frcohenriquez/)](https://www.instagram.com/frcohenriquez/) [![Gmail Badge](https://img.shields.io/badge/-Email-FFFFFF?style=flat-square&logo=Gmail&logoColor=red&link=mailto:henrique.frco@gmail.com)](mailto:henrique.frco@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devhenriquefranco/)](https://www.linkedin.com/in/devhenriquefranco/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/frcohenriquez/)](https://www.instagram.com/frcohenriquez/) [![Gmail Badge](https://img.shields.io/badge/-henrique.frco@gmail.com-FFFFFF?style=flat-square&logo=Gmail&logoColor=red&link=mailto:henrique.frco@gmail.com)](mailto:henrique.frco@gmail.com)
 
 
 <!--
