@@ -41,5 +41,5 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/frcohenrique/frcohenrique/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/frcohenrique/frcohenrique/blob/output/github-contribution-grid-snake.svg)
 
